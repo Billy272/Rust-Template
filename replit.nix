@@ -1,5 +1,9 @@
 { pkgs }: {
 	deps = [
+    pkgs.exti
+    pkgs.exit
+    pkgs. exit
+    pkgs.exit()
     pkgs.nodejs
 		pkgs.rustc
 		pkgs.rustfmt
