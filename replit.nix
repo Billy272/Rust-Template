@@ -1,6 +1,6 @@
 { pkgs }: {
 	deps = [
-    pkgs.exti
+    pkgs.exit
     pkgs.exit
     pkgs. exit
     pkgs.exit()
